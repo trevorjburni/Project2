@@ -18,6 +18,12 @@ Deployed app can be found here: https://project2kst.herokuapp.com/.
 
 - Bulma was used for UI Design
 
+# Contributors
+
+- Trevor Burningham
+- Kellie Hunsaker
+- Stephen Green
+
 ## Future Improvements
 
 Logout Feature
