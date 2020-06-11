@@ -2,6 +2,8 @@
 
 In this project our team developed an app that lets a user log in and get a score from answering 5 triva questions. 
 
+Deployed app can be found here: https://project2kst.herokuapp.com/.
+
 ## Technologies Used
 
 -Passport.js: Allows a user to create an account or login
