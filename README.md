@@ -14,7 +14,7 @@ In this project our team developed an app that lets a user log in and get a scor
 
 -Bulma was used for UI Design
 
-## Future Imporvements
+## Future Improvements
 
 Logout Feature
 Leader Board
