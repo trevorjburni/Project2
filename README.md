@@ -6,15 +6,17 @@ Deployed app can be found here: https://project2kst.herokuapp.com/.
 
 ## Technologies Used
 
--Passport.js: Allows a user to create an account or login
+- JavaScript
 
--bcrypt was used to hash out the password when stored in the SQL Database
+- Node.js
 
--Obtain the questions from a Trivia API
+- Passport.js: Allows a user to create an account or login
 
--Site is deloyed on Heroku: https://project2kst.herokuapp.com/
+- bcrypt was used to hash out the password when stored in the SQL Database
 
--Bulma was used for UI Design
+- Obtain the questions from a Trivia API
+
+- Bulma was used for UI Design
 
 ## Future Improvements
 
